@@ -1,0 +1,5 @@
+usr/lib/*/qt5/qml/org/kde/plasma/private/remoteinstallernotifier/
+usr/share/kservices5/plasma-applet-org.kde.plasma.remoteinstallernotifier.desktop
+usr/share/metainfo/org.kde.plasma.remoteinstallernotifier.appdata.xml
+usr/share/plasma/plasmoids/org.kde.plasma.remoteinstallernotifier/
+usr/share/locale/*/*/*.mo
