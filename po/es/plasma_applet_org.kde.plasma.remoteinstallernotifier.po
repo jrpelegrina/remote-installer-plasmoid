@@ -1,0 +1,43 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# lliurex <lliurex@lliurex.net>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: http://lliurex.net\n"
+"POT-Creation-Date: 2019-11-05 13:38+0100\n"
+"PO-Revision-Date: 2019-11-05 13:48+0100\n"
+"Last-Translator: lliurex <lliurex@lliurex.net>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../applets/remoteinstallernotifier/plugin/RemoteInstallerIndicator.cpp:142
+#, kde-format
+msgid "LliureX Remote Installer"
+msgstr "LliureX Remote Installer"
+
+#: ../applets/remoteinstallernotifier/plugin/RemoteInstallerIndicator.cpp:146
+#, kde-format
+msgid "LliureX Remote Installer is running"
+msgstr "LliureX Remote Installer se está ejecutando"
+
+#: ../applets/remoteinstallernotifier/plugin/RemoteInstallerIndicator.cpp:149
+#, kde-format
+msgid ": Executable Mode"
+msgstr ": Mode Ejecutables"
+
+#: ../applets/remoteinstallernotifier/plugin/RemoteInstallerIndicator.cpp:156
+#, kde-format
+msgid ": Apt Mode"
+msgstr ": Modo Apt"
+
+#: ../applets/remoteinstallernotifier/plugin/RemoteInstallerIndicator.cpp:162
+#, kde-format
+msgid ": Deb Mode"
+msgstr ": Modo Deb"
